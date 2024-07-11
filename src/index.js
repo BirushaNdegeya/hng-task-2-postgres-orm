@@ -12,4 +12,4 @@ server.use(express.json());
 
 server.use("/", mainRouter);
 
-server.listen(port, () => console.log("we are live"));
+server.listen(port, () => console.log("server is running"));

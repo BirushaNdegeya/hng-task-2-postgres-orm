@@ -1,4 +1,3 @@
-// Import necessary modules
 import jwt from "jsonwebtoken";
 import verifyToken from "./../src/controlers/auth/verifyToken";
 
